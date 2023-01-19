@@ -1,0 +1,35 @@
+body {
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+}
+
+.header {
+    background-image: url(image/history.png);
+    height: 450px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-name {
+    color: #fff;
+    font-size: 54px;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.main {
+    background-color: #fff;
+    height: 600px;
+    width: 100%;
+}
+
+
+.history {
+    font-size: 20px;
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width:  50em;
+}

@@ -1,0 +1,39 @@
+body {
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+}
+
+.header {
+    background-image: url(image/attractions.png);
+    height: 450px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-name {
+    color: #fff;
+    font-size: 54px;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 200px;
+}
+
+
+.main {
+    background-color: #fff;
+    width: 100%;
+    height: 3000px;
+}
+
+.attraction {
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    margin: 100px;
+}
+
+.attraction-text {
+    margin-left: 40px;
+}
+
