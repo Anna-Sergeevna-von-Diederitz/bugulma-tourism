@@ -48,6 +48,9 @@ body {
     .header-name {
         font-size: 27px;
     }
+    .header {
+        height: 300px;
+    }
 }
 
 @media (max-width: 767px) {
