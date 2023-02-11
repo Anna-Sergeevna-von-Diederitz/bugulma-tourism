@@ -21,11 +21,14 @@ body {
 
 .main {
     background-color: #fff;
-    height: 1500px;
+    height: 2000px;
     width: 100%;
 }
 
-
+.history-city {
+    margin: 50px;
+    text-align: center;
+}
 
 .history {
     font-size: 18px;
