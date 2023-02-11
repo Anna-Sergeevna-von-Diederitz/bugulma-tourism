@@ -36,6 +36,10 @@ body {
 .attraction-text {
     margin-left: 40px;
 }
+.attraction-img {
+    width: 450px;
+    height: 300px;
+}
 
 @media (max-width: 480px) {
 
@@ -46,11 +50,18 @@ body {
         max-width: none;
     }
     .header-name {
-        font-size: 27px;
+        font-size: 20px;
         padding-top: 30px;
     }
     .header {
         height: 200px;
+    }
+    .attraction {
+        font-size: 14px;
+    }
+    .attraction-img {
+        width: 225px;
+        height: 150px;
     }
 }
 
